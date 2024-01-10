@@ -10,7 +10,7 @@
 
     <properties>
         <reactive.grpc.version>1.2.3</reactive.grpc.version>
-        <grpc.version>1.47.0</grpc.version>
+        <grpc.version>1.60.0</grpc.version>
         <protoc.version>3.9.0</protoc.version>
         <reactor.version>3.4.18</reactor.version>
     </properties>
